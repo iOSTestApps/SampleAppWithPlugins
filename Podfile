@@ -20,3 +20,6 @@ plugin 'cocoapods-keys', {
     "HockeyBetaSecret",
     "MixpanelProductionAPIClientKey",
   ]}
+
+plugin 'cocoapods-acknowledgements'
+
